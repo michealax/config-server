@@ -1,2 +1,6 @@
 server:
    Port: 8772
+
+spring:
+  datasource:
+    url: "jdbc:mysql://someserver-develop:1521/db"
